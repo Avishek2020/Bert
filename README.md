@@ -1,6 +1,7 @@
 # Bert
 
 Movies reviews Semantic analysis using BERT
+
 Part 1: Data Preprocessing
 
 Loading the IMDB dataset
